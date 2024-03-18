@@ -1,11 +1,5 @@
 package test;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
-
-import org.junit.jupiter.api.MethodOrderer;
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestMethodOrder;
-
 import zooAnimales.Anfibio;
 import zooAnimales.Animal;
 import zooAnimales.Ave;
